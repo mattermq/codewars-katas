@@ -10,6 +10,6 @@
 * [**Решение**](/episode_2/2-directions-reduction.js)
 * Ката на [**CodeWars**](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript)
 
-## Square Even Root Odd - 7 kyu
+## Square Even, Root Odd - 7 kyu
 * [**Решение**](/episode_2/3-square-even-root-odd.js)
 * Ката на [**CodeWars**](https://www.codewars.com/kata/5a4b16435f08299c7000274f/javascript)
