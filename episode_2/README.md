@@ -2,14 +2,14 @@
 
 Смотреть выпуск на [**YouTube.**](https://www.youtube.com/watch?v=f2cZ1s_UlU8)
 
-## Transportation On Vacation - 8 kyu
-* [**Решение**](/episode_2/1-transportation-on-vacation.js)
-* Ката на [**CodeWars**](https://www.codewars.com/kata/568d0dd208ee69389d000016/javascript)
+## Lost Number In Number Sequence - 7 kyu
+* [**Решение**](/episode_2/1-lost-number-in-number-sequence.js)
+* Ката на [**CodeWars**](https://www.codewars.com/kata/595aa94353e43a8746000120/javascript)
 
-## Personalized Greeting - 8 kyu
-* [**Решение**](/episode_2/2-personalized-greeting.js)
-* Ката на [**CodeWars**](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
+## Directions Reduction - 5 kyu
+* [**Решение**](/episode_2/2-directions-reduction.js)
+* Ката на [**CodeWars**](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript)
 
-## Help The Bookseller - 6 kyu
-* [**Решение**](/episode_2/3-help-the-bookseller.js)
-* Ката на [**CodeWars**](https://www.codewars.com/kata/54dc6f5a224c26032800005c/javascript)
+## Square Even Root Odd - 7 kyu
+* [**Решение**](/episode_2/3-square-even-root-odd.js)
+* Ката на [**CodeWars**](https://www.codewars.com/kata/5a4b16435f08299c7000274f/javascript)
