@@ -1,4 +1,4 @@
-# Episode 1
+# Episode 2
 
 Смотреть выпуск на [**YouTube.**](https://www.youtube.com/watch?v=f2cZ1s_UlU8)
 
