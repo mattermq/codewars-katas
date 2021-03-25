@@ -1,6 +1,6 @@
 # Episode 1
 
-Смотреть выпуск на [**YouTube.**](youtube.com)
+Смотреть выпуск на [**YouTube.**](https://youtu.be/4LhpaRa254A)
 
 ## Transportation On Vacation - 8 kyu
 * [**Решение**](/episode_1/1-transportation-on-vacation.js)
