@@ -1,5 +1,7 @@
 # Episode 2
 
+![YouTube Video Views](https://img.shields.io/youtube/views/f2cZ1s_UlU8?style=social)
+
 Смотреть выпуск на [**YouTube.**](https://www.youtube.com/watch?v=f2cZ1s_UlU8)
 
 ## Lost Number In Number Sequence - 7 kyu
