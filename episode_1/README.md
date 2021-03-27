@@ -1,6 +1,6 @@
 # Episode 1
 
-![YouTube Video Views](https://img.shields.io/youtube/views/4LhpaRa254A?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/4LhpaRa254A?style=social) ![YouTube Video Likes](https://img.shields.io/youtube/likes/4LhpaRa254A)
 
 Смотреть выпуск на [**YouTube.**](https://youtu.be/4LhpaRa254A)
 
