@@ -1,6 +1,6 @@
 # Episode 2
 
-![YouTube Video Views](https://img.shields.io/youtube/views/f2cZ1s_UlU8?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/f2cZ1s_UlU8?style=social) ![YouTube Video Likes](https://img.shields.io/youtube/likes/f2cZ1s_UlU8)
 
 Смотреть выпуск на [**YouTube.**](https://www.youtube.com/watch?v=f2cZ1s_UlU8)
 
