@@ -2,8 +2,6 @@
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/4LhpaRa254A?style=social)
 
-https://img.shields.io/youtube/views/4LhpaRa254A?style=social
-
 Смотреть выпуск на [**YouTube.**](https://youtu.be/4LhpaRa254A)
 
 ## Transportation On Vacation - 8 kyu
