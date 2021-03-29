@@ -1,6 +1,6 @@
 # Episode 3
 
-![YouTube Video Views](https://img.shields.io/youtube/views/8MpPX4uASEY?style=social) ![YouTube Video Likes](https://img.shields.io/youtube/likes/f2cZ1s_UlU8)
+![YouTube Video Views](https://img.shields.io/youtube/views/8MpPX4uASEY?style=social) ![YouTube Video Likes](https://img.shields.io/youtube/likes/8MpPX4uASEY?style=social)
 
 Смотреть выпуск на [**YouTube.**](https://youtu.be/8MpPX4uASEY)
 
