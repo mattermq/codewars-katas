@@ -2,7 +2,7 @@
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/8MpPX4uASEY?style=social) ![YouTube Video Likes](https://img.shields.io/youtube/likes/8MpPX4uASEY?style=social)
 
-Смотреть выпуск на [**YouTube.**](https://youtu.be/8MpPX4uASEY)
+Смотреть выпуск на [**YouTube.**](https://www.youtube.com/watch?v=wmTN0M5-dlo)
 
 ## Fire On The Boat - 7 kyu
 * [**Решение**](/episode_4/1-fire-on-the-boat.js)
